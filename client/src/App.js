@@ -233,7 +233,7 @@ class HomeScreen extends Component
                     <div class="starter-template">
                         <h1>Welcome to utuezi!</h1>
                         <br/>
-                        <button class="btn btn-outline-success" id="showMonth" onClick="fetchThisMonth">
+                        <button class="btn btn-outline-success" id="showMonth">
                             This Month's Appointments
                         </button>
                     </div>
